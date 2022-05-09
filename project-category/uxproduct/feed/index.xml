@@ -12,13 +12,13 @@
 	<atom:link href="/project-category/uxproduct/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>UX &#38; Product</description>
-	<lastBuildDate>Mon, 09 Aug 2021 01:23:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Oct 2021 12:22:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.4.6</generator>
+	<generator>https://wordpress.org/?v=5.4.10</generator>
 
 <image>
 	<url>/wp-content/uploads/cropped-1125bb-32x32.png</url>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Civiform</title>
+		<link>/work/civiform/</link>
+		
+		<dc:creator><![CDATA[baiux]]></dc:creator>
+		<pubDate>Sat, 28 Aug 2021 08:15:45 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=portfolio&#038;p=7469</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/Slide-16_9-31.png" alt="" class="wp-image-7434" srcset="/wp-content/uploads/Slide-16_9-31.png 1024w, /wp-content/uploads/Slide-16_9-31-650x488.png 650w, /wp-content/uploads/Slide-16_9-31-150x113.png 150w, /wp-content/uploads/Slide-16_9-31-768x577.png 768w, /wp-content/uploads/Slide-16_9-31-738x554.png 738w, /wp-content/uploads/Slide-16_9-31-996x748.png 996w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+<style id="kt-blocks_34800e-26" type="text/css">.kt-tabs-id_34800e-26 > .kt-tabs-content-wrap > .wp-block-kadence-tab {border-width:0px 0px 0px 0px;border-color:#eeeeee;background:#ffffff;}.wp-block-kadence-tabs .kt-tabs-id_34800e-26 > .kt-tabs-title-list li {margin:0px 8px 0px 0px;}.wp-block-kadence-tabs .kt-tabs-id_34800e-26 > .kt-tabs-title-list li .kt-tab-title, .kt-tabs-id_34800e-26 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title {font-size:1.1em;line-height:1.4em;border-width:0px 0px 4px 0px ;border-radius:4px 4px 0px 0px ;padding:8px 20px 8px 20px ;border-color:#ffffff;color:#555555;background:#ffffff;}.kt-tabs-id_34800e-26 > .kt-tabs-title-list li .kt-tab-title:hover, .kt-tabs-id_34800e-26 > .kt-tabs-content-wrap > .kt-tabs-accordion-title .kt-tab-title:hover {border-color:#eeeeee;color:#555555;background:#ffffff;}.kt-tabs-id_34800e-26 > .kt-tabs-title-list li.kt-tab-title-active .kt-tab-title, .kt-tabs-id_34800e-26 > .kt-tabs-content-wrap > .kt-tabs-accordion-title.kt-tab-title-active .kt-tab-title  {border-color:#0a6689;color:#0a6689;background:#ffffff;}</style>
+<div class="wp-block-kadence-tabs alignnone"><div class="kt-tabs-wrap kt-tabs-id_34800e-26 kt-tabs-has-2-tabs kt-active-tab-1 kt-tabs-layout-tabs kt-tabs-tablet-layout-inherit kt-tabs-mobile-layout-inherit kt-tab-alignment-center " style="max-width:none"><ul class="kt-tabs-title-list"><li id="test-hint" class="kt-title-item kt-title-item-1 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-active"><a href="#test-hint" data-tab="1" class="kt-tab-title kt-tab-title-1 "><span class="kt-title-text">Application</span></a></li><li id="tab-admin" class="kt-title-item kt-title-item-2 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-admin" data-tab="2" class="kt-tab-title kt-tab-title-2 "><span class="kt-title-text">Admin</span></a></li></ul><div class="kt-tabs-content-wrap">
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-1 kt-inner-tab_499f2a-bf"><div class="kt-tab-inner-content-inner"></div></div>
+
+
+
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-2 kt-inner-tab_afc59c-f5"><div class="kt-tab-inner-content-inner">
+<p></p>
+</div></div>
+</div></div></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Citymapper – improve</title>
 		<link>/work/citymapper-improve/</link>
 		
